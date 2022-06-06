@@ -9,9 +9,10 @@ multiply = 62;
 
 //Math randomizer 
 
-let num10;
-num10 > 0;
-Math.floor(Math.random(numb10) * 10) + 1;
+let random;
+random > 0;
+Math.floor(Math.random(random) * 10) + 1;
+
 
 // Mod  
 
